@@ -1,54 +1,48 @@
 package com.Simbir;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Assert;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
-import pages.MainPage;
+import org.junit.Assert;
+import org.junit.Test;
+import pages.EmailPage;
+import pages.StartPage;
+import pages.WriteEmailWidget;
 
-import java.util.concurrent.TimeUnit;
+import static com.codeborne.selenide.Selenide.$;
 
-public class StartingTests {
-    WebDriver webDriver;
+public class StartingTests extends StartPage {
+
+    private final String lastName = "Борисов";
+    private final String receiver = "ilya.filinin@simbirsoft.com";
+    int count;
 
 
-    @BeforeMethod
-    public void openBrowser() {
-        System.setProperty("webdriver.chrome.driver", "D:\\Downloads\\chromedriver.exe");
-        webDriver = new ChromeDriver();
-        webDriver.manage().window().maximize();
-        WebDriverWait wait = new WebDriverWait(webDriver, 30, 500);
-        webDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        webDriver.get("http://www.gmail.com/");
-
-//        webDriver.findElement(By.cssSelector("#identifierId")).sendKeys("testsimbirsoft2");
-
-    }
-    MainPage mainPage = new MainPage(webDriver);
     @Test
-    public void mainSteps(){
-        mainPage.clickLogin();
-//        mainPage.setLogin();
-//        mainPage.clickNextButton();
-//        mainPage.enterPassword();
-//        mainPage.clickNextButton();
-//        mainMail.enterSearch();
-//        mainMail.enterButton();
-//        mainMail.enterButton();
+    public void countEmails() {
 
-//
+        EmailPage.search("Филинин Илья");
+
+        count = EmailPage.takeCountEmails();
+        System.out.println(count);
+
+        if (count == 0) {
+            Assert.assertTrue(false);
+        } else {
+            Assert.assertTrue(true);
+        }
+
+        EmailPage.createEmail();
+
+        WriteEmailWidget.writeEmail(count, lastName, receiver);
     }
 
 
 
 
-//    @Test
-//    public void CheckItemsUnderResources(){
-//        Assert.assertTrue(webDriver.findElements(By.cssSelector("#homepage-links > ul > li")).size() == 9);
-//
-//    }
-}
+
+
+    
+
+    }
+
+
+
+
