@@ -1,5 +1,7 @@
 package com.Simbir;
 
+import com.codeborne.selenide.Selenide;
+import com.codeborne.selenide.SelenideElement;
 import org.junit.Assert;
 import org.junit.Test;
 import pages.EmailPage;
@@ -11,14 +13,14 @@ import static com.codeborne.selenide.Selenide.$;
 public class StartingTests extends StartPage {
 
     private final String lastName = "Борисов";
-    private final String receiver = "ilya.filinin@simbirsoft.com";
+    private final String receiver = "pix2003@mail.ru"; //ilya.filinin@simbirsoft.com
     int count;
 
 
     @Test
     public void countEmails() {
 
-        EmailPage.search("Филинин Илья");
+        EmailPage.search("from:(филинин илья)");
 
         count = EmailPage.takeCountEmails();
         System.out.println(count);
@@ -32,6 +34,9 @@ public class StartingTests extends StartPage {
         EmailPage.createEmail();
 
         WriteEmailWidget.writeEmail(count, lastName, receiver);
+
+        WriteEmailWidget.sendEmail();
+
     }
 
 

@@ -15,8 +15,8 @@
       <file leaf-file-name="StartingTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Simbir/StartingTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="318">
+              <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,44 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FrameworkMethod.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <element signature="e#870#1063#0" expanded="true" />
-                <element signature="e#1062#1063#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InvokeMethod.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReflectiveCallable.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="WriteEmailWidget.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/WriteEmailWidget.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="40" />
+            <state relative-caret-position="360">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,16 +46,6 @@
                 <element signature="e#876#877#0" expanded="true" />
                 <element signature="e#942#943#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StartPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/StartPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -122,9 +79,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/Simbir/TestNgTestBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/MainPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/StartPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/EmailPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/WriteEmailWidget.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/Simbir/StartingTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/EmailPage.java" />
       </list>
     </option>
   </component>
@@ -475,29 +432,11 @@
       <updated>1535472319892</updated>
       <workItem from="1535472323872" duration="4850000" />
       <workItem from="1535477218673" duration="3576000" />
-      <workItem from="1535516764389" duration="22322000" />
+      <workItem from="1535516764389" duration="24224000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StartingTests - 2018.08.30 at 00h 11m 21s.xml">
-      <configuration name="StartingTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StartingTests - 2018.08.30 at 00h 16m 19s.xml">
-      <configuration name="StartingTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StartingTests - 2018.08.30 at 00h 21m 24s.xml">
-      <configuration name="StartingTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StartingTests - 2018.08.30 at 00h 22m 26s.xml">
-      <configuration name="StartingTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StartingTests - 2018.08.30 at 00h 23m 05s.xml">
-      <configuration name="StartingTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StartingTests - 2018.08.30 at 00h 27m 26s.xml">
-      <configuration name="StartingTests" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StartingTests - 2018.08.30 at 00h 31m 19s.xml">
       <configuration name="StartingTests" configurationId="JUnit" />
     </history-entry>
@@ -510,12 +449,31 @@
     <history-entry file="StartingTests - 2018.08.30 at 00h 39m 58s.xml">
       <configuration name="StartingTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StartingTests - 2018.08.30 at 08h 44m 01s.xml">
+      <configuration name="StartingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StartingTests - 2018.08.30 at 08h 46m 03s.xml">
+      <configuration name="StartingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StartingTests - 2018.08.30 at 08h 47m 09s.xml">
+      <configuration name="StartingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StartingTests - 2018.08.30 at 08h 48m 46s.xml">
+      <configuration name="StartingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StartingTests - 2018.08.30 at 08h 53m 29s.xml">
+      <configuration name="StartingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StartingTests - 2018.08.30 at 08h 55m 31s.xml">
+      <configuration name="StartingTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30748000" />
+    <option name="totallyTimeSpent" value="32650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1790" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -525,8 +483,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.50208455" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.49791542" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.49791542" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -589,7 +547,7 @@
           <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="34" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -773,97 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <marker date="1535470256210" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1535470256210" expanded="false" signature="141:1212" ph="..." />
-            <marker date="1535470256210" expanded="true" signature="1480:1509" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="1585:1846" ph="{...}" />
-            <marker date="1535470256210" expanded="false" signature="1902:1913" ph=" { " />
-            <marker date="1535470256210" expanded="false" signature="1962:1968" ph=" }" />
-            <marker date="1535470256210" expanded="true" signature="2034:2414" ph="{...}" />
-            <marker date="1535470256210" expanded="false" signature="2465:2476" ph=" { " />
-            <marker date="1535470256210" expanded="false" signature="2509:2515" ph=" }" />
-            <marker date="1535470256210" expanded="false" signature="2573:2584" ph=" { " />
-            <marker date="1535470256210" expanded="false" signature="2643:2649" ph=" }" />
-            <marker date="1535470256210" expanded="true" signature="2722:2995" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="3070:3293" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="3358:3463" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="3535:3724" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="3796:4123" ph="{...}" />
-            <marker date="1535470256210" expanded="false" signature="4164:4175" ph=" { " />
-            <marker date="1535470256210" expanded="false" signature="4247:4253" ph=" }" />
-            <marker date="1535470256210" expanded="true" signature="4259:4277" ph="/**...*/" />
-            <marker date="1535470256210" expanded="true" signature="4361:4683" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="4743:4832" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="4891:4987" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="5052:5131" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="5184:5262" ph="{...}" />
-            <marker date="1535470256210" expanded="false" signature="5317:5328" ph=" { " />
-            <marker date="1535470256210" expanded="false" signature="5352:5358" ph=" }" />
-            <marker date="1535470256210" expanded="true" signature="5420:6198" ph="{...}" />
-            <marker date="1535470256210" expanded="false" signature="5477:5575" ph="runReflectiveCall() → {" />
-            <marker date="1535470256210" expanded="false" signature="5657:5676" ph="}" />
-            <marker date="1535470256210" expanded="false" signature="6274:6285" ph=" { " />
-            <marker date="1535470256210" expanded="false" signature="6323:6329" ph=" }" />
-            <marker date="1535470256210" expanded="true" signature="6436:6646" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="6652:6670" ph="/**...*/" />
-            <marker date="1535470256210" expanded="true" signature="6785:7004" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="7102:7308" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="7405:7606" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="7700:7943" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="8066:8373" ph="{...}" />
-            <marker date="1535470256210" expanded="false" signature="8433:8444" ph=" { " />
-            <marker date="1535470256210" expanded="false" signature="8470:8476" ph=" }" />
-            <marker date="1535470256210" expanded="true" signature="8530:8781" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="8890:9023" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="9082:9330" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="9409:9521" ph="{...}" />
-            <marker date="1535470256210" expanded="false" signature="9576:9587" ph=" { " />
-            <marker date="1535470256210" expanded="false" signature="9640:9646" ph=" }" />
-            <marker date="1535470256210" expanded="false" signature="9692:9703" ph=" { " />
-            <marker date="1535470256210" expanded="false" signature="9757:9763" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunBefores.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <marker date="1535470256210" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1535470256210" expanded="false" signature="161:293" ph="..." />
-            <marker date="1535470256210" expanded="true" signature="540:635" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="681:938" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunAfters.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding>
-            <marker date="1535470256210" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1535470256210" expanded="false" signature="161:378" ph="..." />
-            <marker date="1535470256210" expanded="true" signature="621:714" ph="{...}" />
-            <marker date="1535470256210" expanded="true" signature="760:2692" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="194" column="102" lean-forward="false" selection-start-line="194" selection-start-column="102" selection-end-line="194" selection-end-column="102" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/By.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -955,16 +822,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/WriteEmailWidget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/EmailPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -998,16 +855,64 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="158" column="0" lean-forward="false" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
+          <folding>
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#5951#6086#0" expanded="true" />
+            <element signature="e#6484#6648#0" expanded="true" />
+            <element signature="e#6647#6648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunBefores.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunAfters.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/WriteEmailWidget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Simbir/StartingTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="318">
+          <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

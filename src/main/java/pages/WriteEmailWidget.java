@@ -3,6 +3,7 @@ package pages;
 import com.codeborne.selenide.Selectors;
 import com.codeborne.selenide.Selenide;
 import com.codeborne.selenide.SelenideElement;
+import com.codeborne.selenide.commands.PressEnter;
 import org.openqa.selenium.By;
 
 import static com.codeborne.selenide.Selectors.byText;
@@ -18,4 +19,12 @@ public class WriteEmailWidget {
 
     }
 
+    public static void sendEmail(){
+        $(By.xpath("//*/tr[2]/td/div/div/div[4]/table/tbody/tr/td[1]/div/div[2]")).click();
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
 }
